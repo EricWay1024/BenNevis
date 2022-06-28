@@ -24,3 +24,7 @@ data/tokens
 
 # Local results
 results
+
+# IDE
+.vscode/
+.idea/
